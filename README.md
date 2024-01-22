@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bhumika Saha</h1>
 <h3 align="center">A passionate developer from India. Interested in AI</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw0nv_hGTQiD7AdT5KPjm0C2&ust=1706033574064000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJi5nbXM8YMDFQAAAAAdAAAAABA_">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika7797&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika7797" /> </p>
 
 - 📫 How to reach me **sahabhumika7@gmail.com**
