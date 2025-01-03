@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika7797&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika7797" /> </p>
 
-- 📫 How to reach me **sahabhumika7@gmail.com**
+- 📫 How to reach me **bhumikasaha9@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bhumika-saha-1ab07521b/](https://www.linkedin.com/in/bhumika-saha-1ab07521b/)
 
